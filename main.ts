@@ -1,6 +1,6 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Mr. Coxall
+ * Created by: Bain Liao
  * Created on: Oct 2024
  * This program rotates a pixel clockwise and counterclockwise around the perimeter
 */
